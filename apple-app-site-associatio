@@ -1,0 +1,15 @@
+  {                                                                                        
+    "applinks": {                                                                          
+      "details": [                                          
+        {
+          "appIDs": ["BUKGH5MWAT.com.gaeunjoo.Closet"],
+          "components": [                                                                  
+            {
+              "/": "/closet/wishlist*",                                                    
+              "comment": "Closet 위시리스트 universal link" 
+            }
+          ]
+        }                                                                                  
+      ]
+    }                                                                                      
+  }                                                         
